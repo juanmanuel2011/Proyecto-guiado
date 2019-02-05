@@ -1,4 +1,4 @@
-ARDUINO
+# ARDUINO
 Es una plataforma de código abierto basada en en hardware y software libre.
 Arduino se ha popularizado debido a a diversos factores que lo han caracterizado como:
 + Su precio es económico comparado con el de otras plataformas de microcontroladores.
