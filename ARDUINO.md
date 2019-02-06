@@ -7,6 +7,7 @@ Arduino se ha popularizado debido a a diversos factores que lo han caracterizado
 Arduino nació en Italia, como parte de un proyecto universitario enfocado a la creción de un nuevo microcontrolador que tuviera un menor  precio al acostumbrado dentro del mercado.
 
 Existen varios tipos de arduinos como lo es el uno y el mega los cuales también pueden ser remplazados en el mercado fácilmente ya que hay varios distribuidores que se encargan de que esta plataforma sea más accesible pero a su vez tenga más complicaciones ya que no podemos decir que estos sean de la misma calidad que el original.
+Las placas Arduino no tienen un espacio de almacenamiento tan potencializado como el de un smartphone, esto no limita el funcionamiento de ninguna placa sea ya un Arduino Uno o un Arduino Mega.
 
 En el se pueden grabar diversas instrucciones que se generan a partir de lenguaje de programación en Arduino IDE.
 
