@@ -1,4 +1,5 @@
 # PROBADOR DE LEDS
+Círcuito mediante el cual se prueba el funcionamiento de leds a partir del uso de arduino y resistencias y leds
 ## Prototipo
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/Untitled%20Sketch_bb.png)
 ### Diagrama esquemático
