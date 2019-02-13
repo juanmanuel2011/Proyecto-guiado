@@ -11,3 +11,4 @@ En el siguiente montaje denominado Sensor de Movimiento podemos observar el ence
 ### Diagrama Esquemático
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/Sensor%20Mov.%20(esquematico).png)
 ## Montaje
+![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/SensordeMovimiento.jpeg)
