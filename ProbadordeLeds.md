@@ -1,5 +1,9 @@
 # PROBADOR DE LEDS
-Círcuito mediante el cual se prueba el funcionamiento de leds a partir del uso de arduino, resistencias y leds
+Círcuito mediante el cual podemos comprobar el funcionamiento de un LED a partir del uso de:
+* Protoboard.
+* Arduino MEGA 2560.
+* Resistencia de 220 Ω.
+* LED.
 ## Prototipo
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/Untitled%20Sketch_bb.png)
 ### Diagrama esquemático
