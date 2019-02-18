@@ -5,7 +5,7 @@ En el siguiente montaje denominado Sensor de Movimiento podemos observar el ence
 * Sensor PIR.
 * Resistencia de 1K Ω.
 * LED.
-* Jumpers
+* Jumpers.
 ## Prototipo
 ### Diagram Pictórico
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/SENSOR%20DE%20MOVIMIENTO.png)
