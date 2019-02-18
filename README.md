@@ -2,7 +2,7 @@
 ## 1. Integrantes
 * Juan Manuel Bonza (líder).
 * Javier Correa Pérez (constructor).
-* Jefferson Andrés Sunz (constructor).
+* Jefferson Andrés Suns (constructor).
 * Diego Quiñonez Salas (diseñador).
 * Jesus Díaz (programador).
 * Juan Sabastian Ruiz (programador).
