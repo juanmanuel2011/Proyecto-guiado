@@ -5,7 +5,9 @@ En el siguiente montaje denominado Sensor de Movimiento podemos observar el ence
 * Sensor PIR.
 * Resistencia de 1K Ω.
 * LED.
-* Jumpers.
+* Jumpers Macho-Macho y Macho-Hembra.
+
+La construcción de este montaje requirió de la realización de algunas conexiones entre el arduino y el protoboard, y un código que determinara el comportamiento de los LEDS respecto al movimiento que detectara el sensor PIR. 
 ## Prototipo
 ### Diagram Pictórico
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/SENSOR%20DE%20MOVIMIENTO.png)
