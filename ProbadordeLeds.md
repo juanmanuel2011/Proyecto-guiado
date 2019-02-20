@@ -1,9 +1,11 @@
 # PROBADOR DE LEDS
-Círcuito mediante el cual podemos comprobar el funcionamiento de un LED a partir del uso de:
+Montaje mediante el cual podemos comprobar el funcionamiento de un LED a partir del uso de:
 * Protoboard.
 * Arduino MEGA 2560.
 * Resistencia de 220 Ω.
 * LED.
+
+La construcción de este montaje es bastante sencilla y sólo requiere de unas pocas conexiones entre el arduino y el protoboard.
 ## Prototipo
 ![1](https://github.com/juanmanuel2011/Proyecto-guiado/blob/master/Images/Untitled%20Sketch_bb.png)
 ### Diagrama esquemático
