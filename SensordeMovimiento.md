@@ -1,5 +1,5 @@
-# SENSOR DE MOVIMIENTO
-En el siguiente montaje denominado Sensor de Movimiento podemos observar el encendido o apagado de un LED basandonos en si el movimiento que logra detectar el sensor es fuerte o nulo, determinandolo en un determinado tiempo. Los materiales utilizados para la realización de este proyecto fueron:
+# SENSOR PIR
+En el siguiente montaje denominado Sensor PIR o sensor de Movimiento podemos observar el encendido o apagado de un LED basandonos en si el movimiento que logra detectar el sensor es fuerte o nulo, determinandolo en un determinado tiempo. Los materiales utilizados para la realización de este proyecto fueron:
 * Arduino MEGA 2560.
 * Protoboard.
 * Sensor PIR.
